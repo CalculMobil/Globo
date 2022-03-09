@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Globo</string>
+    <string name="register_restaurant_button">To deliver</string>
+    <string name="register_user_button">To order</string>
+</resources>

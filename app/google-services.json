@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354275820624",
+    "project_id": "globo-1e301",
+    "storage_bucket": "globo-1e301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354275820624:android:6e2f805591a3a9d647fd55",
+        "android_client_info": {
+          "package_name": "com.calcul_mobil.globo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354275820624-pggts521apt9uh3sja3ubrnsa949rd8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCTH03TtETX6m-k2d_ZYWG-hE2KcFcKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354275820624-pggts521apt9uh3sja3ubrnsa949rd8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
